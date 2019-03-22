@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 833b84cbc56886d488211dfa9ad01e98, type: 3}
+  m_Name: Helmet of Fire
+  m_EditorClassIdentifier: 
+  name: Helmet of Fire
+  icon: {fileID: 21300000, guid: 21ae64dbb2de35e40a59d9bed67c7d22, type: 3}
+  isDefaultItem: 0
+  equipSlot: 0
+  armorModifier: 2
+  damageModifier: 1
